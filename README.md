@@ -29,4 +29,11 @@ Pivot Tables
 Conditional Formatting
 Data Visualization
 Dashboard Creation
+
 ![Excel dashboard](cleanexcel1.jpeg)
+
+![Excel dashboard](cleanexcel4.jpeg)
+
+![Excel dashboard](cleanexcel2.jpeg)
+
+![Excel dashboard](cleanexcel3.jpeg)
